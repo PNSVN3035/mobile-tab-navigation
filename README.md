@@ -1,4 +1,4 @@
-# Welcome to Form Mobile Tab Navigation
+# Welcome to Mobile Tab Navigation
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT 
